@@ -1,1 +1,11 @@
-<p>director works!</p>
+<mat-card class="dialog-card">
+  <mat-card-header>
+    <mat-card-title class="dialog-title">{{ data.Name }}</mat-card-title>
+  </mat-card-header>
+  <mat-dialog-content class="dialog-content">
+    <p>Bio: {{ data.Bio }}</p>
+  </mat-dialog-content>
+  <mat-card-actions>
+    <button class="dialog-button" mat-button mat-dialog-close>x</button>
+  </mat-card-actions>
+</mat-card>
