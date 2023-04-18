@@ -1,0 +1,21 @@
+$primary: #0b132b;
+$secondary: white;
+$main: #fc2983;
+
+.dialog-card {
+  display: flex;
+  justify-content: center;
+  background-color: $primary;
+  color: $secondary;
+  border: $secondary solid 1px;
+}
+
+.dialog-title,
+.dialog-content,
+.dialog-button {
+  color: $secondary;
+}
+
+.dialog-button {
+  background-color: $main;
+}
