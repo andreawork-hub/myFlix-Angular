@@ -43,3 +43,8 @@ GitHub: @andreawork-hub
 - change description component name to synopsis
 - update alerts
 
+🙏 Acknowledgments
+-----
+I would like to thank to Stephen Barungi and Bless Darah, who helped me to complete the project in terms of my studies at CF successfully.
+
+
